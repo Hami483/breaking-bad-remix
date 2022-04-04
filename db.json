@@ -1,0 +1,148 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "message": "yoooo soo good!!",
+      "episodeId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Marcus",
+      "message": "some comment",
+      "episodeId": "1"
+    },
+    {
+      "name": "Samuel",
+      "message": "Good Film",
+      "episodeId": "2",
+      "id": 3
+    },
+    {
+      "name": "Jack",
+      "message": "test comment",
+      "episodeId": "1",
+      "id": 4
+    },
+    {
+      "name": "Will",
+      "message": "good one",
+      "episodeId": "1",
+      "id": 5
+    },
+    {
+      "name": "Will ",
+      "message": "good episode",
+      "episodeId": "7",
+      "id": 6
+    },
+    {
+      "name": "Sam",
+      "message": "good episode",
+      "episodeId": "7",
+      "id": 7
+    },
+    {
+      "name": "Hameem",
+      "message": "thrilling episode",
+      "episodeId": "3",
+      "id": 8
+    },
+    {
+      "name": "John",
+      "message": "Good",
+      "episodeId": "3",
+      "id": 9
+    },
+    {
+      "name": "Hameem",
+      "message": "good episode",
+      "episodeId": "6",
+      "id": 10
+    },
+    {
+      "name": "hameem mohd",
+      "message": "nice episode",
+      "episodeId": "2",
+      "id": 11
+    },
+    {
+      "name": "Hameem",
+      "message": "good episode",
+      "episodeId": "10",
+      "id": 12
+    },
+    {
+      "name": "hameem mohd",
+      "message": "good episode",
+      "episodeId": "12",
+      "id": 13
+    },
+    {
+      "name": "Hameem",
+      "message": "nice episode",
+      "episodeId": "14",
+      "id": 14
+    },
+    {
+      "name": "Hameem",
+      "message": "nice episode",
+      "episodeId": "3",
+      "id": 15
+    },
+    {
+      "name": "Hameem",
+      "message": "superb",
+      "episodeId": "3",
+      "id": 16
+    },
+    {
+      "name": "Hameem",
+      "message": "test",
+      "episodeId": "3",
+      "id": 17
+    },
+    {
+      "name": "Hameem",
+      "message": "testing",
+      "episodeId": "3",
+      "id": 18
+    },
+    {
+      "name": "Hameem",
+      "message": "one more test",
+      "episodeId": "3",
+      "id": 19
+    },
+    {
+      "name": "Hameem",
+      "message": "good movie",
+      "episodeId": "1",
+      "id": 20
+    },
+    {
+      "name": "test1",
+      "message": "great",
+      "episodeId": "13",
+      "id": 21
+    },
+    {
+      "name": "test1",
+      "message": "great episode",
+      "episodeId": "13",
+      "id": 22
+    },
+    {
+      "name": "hameem mohd",
+      "message": "great",
+      "episodeId": "3",
+      "id": 23
+    },
+    {
+      "name": "Hameem",
+      "message": "good episode",
+      "episodeId": "7",
+      "id": 24
+    }
+  ]
+}
