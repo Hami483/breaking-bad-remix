@@ -24,6 +24,5 @@ export async function getAllCharacters(name=''){
 
 export async function getCharacterById(id){
     const response = await fetch(`https://www.breakingbadapi.com/api/characters/${id}`)
-
    return response.json()
 }
